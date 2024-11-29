@@ -1,4 +1,4 @@
-import svg from "../../assets/search.svg";
+import svg from "../../assets/Search.svg";
 
 interface Props {
     setValue: (value: string) => void
