@@ -1,0 +1,20 @@
+.animation{
+    animation: animation 5s forwards;
+    position: absolute;
+    bottom: 80px;
+    
+}
+
+@keyframes animation{
+    from{
+        right: 200px;
+        opacity: 0;
+    }
+    20%{
+        opacity: 1;
+    }
+    to{
+        right: 200px;
+        opacity: 0;
+    }
+}

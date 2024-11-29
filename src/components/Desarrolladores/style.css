@@ -1,0 +1,4 @@
+.scroll{
+    scrollbar-color: #1a1b1d #282B30; /* Color del thumb y del track */
+    scrollbar-width: thin;
+}
